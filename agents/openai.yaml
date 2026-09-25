@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stat/ML/Probability Theorem Prover"
+  short_description: "Rigorous proofs for statistics, ML, and probability"
+  default_prompt: "Use $prove-stat-ml-probability-theorems to develop and adversarially audit a complete proof of the theorem I provide."
